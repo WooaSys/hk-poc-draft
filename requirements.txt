@@ -1,0 +1,9 @@
+jupyter
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+pyshp
+ipykernel
+folium
