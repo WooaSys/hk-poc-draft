@@ -4,7 +4,10 @@
       "Bash(python3:*)",
       "Bash(curl -s \"http://localhost:5000/route/v1/driving/127.0,37.0;127.1,37.1?overview=false\")",
       "Bash(curl -v \"http://localhost:5000/route/v1/driving/127.0,37.0;127.1,37.1?overview=false\")",
-      "Bash(curl -s \"http://localhost:5001/route/v1/driving/127.0,37.0;127.1,37.1?overview=false\")"
+      "Bash(curl -s \"http://localhost:5001/route/v1/driving/127.0,37.0;127.1,37.1?overview=false\")",
+      "Bash(mkdir -p ~/.gstack)",
+      "Bash(rm -f ~/.gstack/last-update-check)",
+      "Bash(rm -f ~/.gstack/update-snoozed)"
     ]
   }
 }
