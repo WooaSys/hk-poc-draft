@@ -1,0 +1,2655 @@
+{
+  "scenario_id": "S10_buf120",
+  "total_cost": 45751800,
+  "total_vehicles": 188,
+  "total_routes": 188,
+  "rdc_results": [
+    {
+      "rdc_name": "계룡RDC",
+      "sigungu_count": 67,
+      "vehicle_count": 38,
+      "total_demand": 38.0,
+      "total_cost": 10592400,
+      "total_osrm_km": 7600.0,
+      "total_corrected_km": 9795.1,
+      "unassigned_count": 1,
+      "routes": [
+        {
+          "vehicle_id": 1,
+          "stops": [
+            "대전광역시 서구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 36.8,
+          "corrected_km": 55.9,
+          "duration_min": 39.2,
+          "utilization": 1.0,
+          "price_range": "51~60 km",
+          "cost": 100900
+        },
+        {
+          "vehicle_id": 2,
+          "stops": [
+            "전라남도 순천시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 355.5,
+          "corrected_km": 458.6,
+          "duration_min": 280.6,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 446000
+        },
+        {
+          "vehicle_id": 3,
+          "stops": [
+            "광주광역시 북구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 299.2,
+          "corrected_km": 385.9,
+          "duration_min": 236.5,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 446000
+        },
+        {
+          "vehicle_id": 4,
+          "stops": [
+            "광주광역시 광산구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 298.0,
+          "corrected_km": 384.4,
+          "duration_min": 236.1,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 446000
+        },
+        {
+          "vehicle_id": 5,
+          "stops": [
+            "광주광역시 광산구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 298.0,
+          "corrected_km": 384.4,
+          "duration_min": 236.1,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 446000
+        },
+        {
+          "vehicle_id": 6,
+          "stops": [
+            "충청남도 아산시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 168.8,
+          "corrected_km": 221.1,
+          "duration_min": 146.0,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 264800
+        },
+        {
+          "vehicle_id": 7,
+          "stops": [
+            "전라북도 전주시 덕진구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 125.3,
+          "corrected_km": 152.9,
+          "duration_min": 113.2,
+          "utilization": 1.0,
+          "price_range": "141~160 km",
+          "cost": 188900
+        },
+        {
+          "vehicle_id": 8,
+          "stops": [
+            "충청북도 청주시 서원구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 116.2,
+          "corrected_km": 145.2,
+          "duration_min": 99.5,
+          "utilization": 1.0,
+          "price_range": "141~160 km",
+          "cost": 188900
+        },
+        {
+          "vehicle_id": 9,
+          "stops": [
+            "충청북도 청주시 서원구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 116.2,
+          "corrected_km": 145.2,
+          "duration_min": 99.5,
+          "utilization": 1.0,
+          "price_range": "141~160 km",
+          "cost": 188900
+        },
+        {
+          "vehicle_id": 10,
+          "stops": [
+            "충청북도 청주시 서원구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 116.2,
+          "corrected_km": 145.2,
+          "duration_min": 99.5,
+          "utilization": 1.0,
+          "price_range": "141~160 km",
+          "cost": 188900
+        },
+        {
+          "vehicle_id": 11,
+          "stops": [
+            "전라북도 완주군"
+          ],
+          "stop_count": 1,
+          "osrm_km": 111.6,
+          "corrected_km": 139.5,
+          "duration_min": 94.5,
+          "utilization": 1.0,
+          "price_range": "121~140 km",
+          "cost": 170100
+        },
+        {
+          "vehicle_id": 12,
+          "stops": [
+            "충청북도 청주시 흥덕구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 114.2,
+          "corrected_km": 142.7,
+          "duration_min": 92.8,
+          "utilization": 1.0,
+          "price_range": "141~160 km",
+          "cost": 188900
+        },
+        {
+          "vehicle_id": 13,
+          "stops": [
+            "세종특별자치시 세종특별자치시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 63.1,
+          "corrected_km": 78.9,
+          "duration_min": 60.1,
+          "utilization": 1.0,
+          "price_range": "71~80 km",
+          "cost": 118200
+        },
+        {
+          "vehicle_id": 14,
+          "stops": [
+            "대전광역시 동구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 43.6,
+          "corrected_km": 66.2,
+          "duration_min": 43.3,
+          "utilization": 1.0,
+          "price_range": "61~70 km",
+          "cost": 109200
+        },
+        {
+          "vehicle_id": 15,
+          "stops": [
+            "충청남도 금산군",
+            "대전광역시 동구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 90.3,
+          "corrected_km": 112.9,
+          "duration_min": 79.9,
+          "utilization": 0.8,
+          "price_range": "101~120 km",
+          "cost": 153500
+        },
+        {
+          "vehicle_id": 16,
+          "stops": [
+            "대전광역시 대덕구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 38.4,
+          "corrected_km": 58.3,
+          "duration_min": 40.0,
+          "utilization": 1.0,
+          "price_range": "51~60 km",
+          "cost": 100900
+        },
+        {
+          "vehicle_id": 17,
+          "stops": [
+            "대전광역시 유성구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 37.7,
+          "corrected_km": 57.3,
+          "duration_min": 38.8,
+          "utilization": 1.0,
+          "price_range": "51~60 km",
+          "cost": 100900
+        },
+        {
+          "vehicle_id": 18,
+          "stops": [
+            "전라남도 장성군",
+            "광주광역시 광산구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 300.9,
+          "corrected_km": 388.2,
+          "duration_min": 243.0,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 446000
+        },
+        {
+          "vehicle_id": 19,
+          "stops": [
+            "전라북도 완주군"
+          ],
+          "stop_count": 1,
+          "osrm_km": 111.6,
+          "corrected_km": 139.5,
+          "duration_min": 94.5,
+          "utilization": 0.8,
+          "price_range": "121~140 km",
+          "cost": 170100
+        },
+        {
+          "vehicle_id": 20,
+          "stops": [
+            "전라북도 군산시",
+            "충청남도 계룡시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 145.4,
+          "corrected_km": 177.4,
+          "duration_min": 150.7,
+          "utilization": 1.0,
+          "price_range": "161~180 km",
+          "cost": 209400
+        },
+        {
+          "vehicle_id": 21,
+          "stops": [
+            "충청남도 예산군",
+            "충청남도 서산시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 262.9,
+          "corrected_km": 339.1,
+          "duration_min": 217.6,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 446000
+        },
+        {
+          "vehicle_id": 22,
+          "stops": [
+            "전라남도 고흥군",
+            "전라남도 여수시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 490.5,
+          "corrected_km": 632.7,
+          "duration_min": 410.5,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 446000
+        },
+        {
+          "vehicle_id": 23,
+          "stops": [
+            "전라북도 임실군",
+            "전라남도 순천시",
+            "전라남도 구례군",
+            "전라북도 남원시",
+            "전라북도 장수군",
+            "전라북도 진안군",
+            "전라북도 무주군"
+          ],
+          "stop_count": 7,
+          "osrm_km": 420.4,
+          "corrected_km": 542.3,
+          "duration_min": 377.3,
+          "utilization": 0.903,
+          "price_range": "321~350 km",
+          "cost": 446000
+        },
+        {
+          "vehicle_id": 24,
+          "stops": [
+            "대전광역시 유성구",
+            "충청북도 청주시 흥덕구",
+            "충청북도 진천군"
+          ],
+          "stop_count": 3,
+          "osrm_km": 179.4,
+          "corrected_km": 235.0,
+          "duration_min": 156.7,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 301800
+        },
+        {
+          "vehicle_id": 25,
+          "stops": [
+            "전라북도 익산시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 112.2,
+          "corrected_km": 140.3,
+          "duration_min": 102.3,
+          "utilization": 0.9,
+          "price_range": "141~160 km",
+          "cost": 188900
+        },
+        {
+          "vehicle_id": 26,
+          "stops": [
+            "충청북도 증평군",
+            "충청북도 청주시 청원구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 160.5,
+          "corrected_km": 210.2,
+          "duration_min": 138.7,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 264800
+        },
+        {
+          "vehicle_id": 27,
+          "stops": [
+            "충청북도 보은군",
+            "충청북도 청주시 상당구",
+            "세종특별자치시 세종특별자치시"
+          ],
+          "stop_count": 3,
+          "osrm_km": 161.6,
+          "corrected_km": 211.7,
+          "duration_min": 151.7,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 264800
+        },
+        {
+          "vehicle_id": 28,
+          "stops": [
+            "충청남도 홍성군",
+            "충청남도 청양군",
+            "충청남도 부여군"
+          ],
+          "stop_count": 3,
+          "osrm_km": 197.4,
+          "corrected_km": 258.5,
+          "duration_min": 186.5,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 301800
+        },
+        {
+          "vehicle_id": 29,
+          "stops": [
+            "충청북도 영동군",
+            "충청북도 옥천군",
+            "대전광역시 대덕구"
+          ],
+          "stop_count": 3,
+          "osrm_km": 131.8,
+          "corrected_km": 160.7,
+          "duration_min": 128.6,
+          "utilization": 1.0,
+          "price_range": "161~180 km",
+          "cost": 209400
+        },
+        {
+          "vehicle_id": 30,
+          "stops": [
+            "충청남도 아산시",
+            "충청남도 태안군",
+            "충청남도 서천군"
+          ],
+          "stop_count": 3,
+          "osrm_km": 345.5,
+          "corrected_km": 445.7,
+          "duration_min": 317.4,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 446000
+        },
+        {
+          "vehicle_id": 31,
+          "stops": [
+            "전라북도 전주시 덕진구",
+            "전라북도 정읍시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 206.6,
+          "corrected_km": 266.5,
+          "duration_min": 178.9,
+          "utilization": 0.9,
+          "price_range": "261~290 km",
+          "cost": 344200
+        },
+        {
+          "vehicle_id": 32,
+          "stops": [
+            "전라북도 김제시",
+            "전라북도 부안군",
+            "충청남도 논산시"
+          ],
+          "stop_count": 3,
+          "osrm_km": 201.4,
+          "corrected_km": 259.9,
+          "duration_min": 188.0,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 301800
+        },
+        {
+          "vehicle_id": 33,
+          "stops": [
+            "대전광역시 중구",
+            "대전광역시 서구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 41.8,
+          "corrected_km": 63.6,
+          "duration_min": 44.8,
+          "utilization": 1.0,
+          "price_range": "61~70 km",
+          "cost": 109200
+        },
+        {
+          "vehicle_id": 34,
+          "stops": [
+            "전라남도 무안군",
+            "전라남도 진도군",
+            "전라남도 해남군",
+            "전라남도 완도군",
+            "전라남도 강진군",
+            "전라남도 장흥군",
+            "전라남도 보성군",
+            "전라남도 화순군",
+            "광주광역시 동구",
+            "전라남도 담양군",
+            "전라북도 순창군"
+          ],
+          "stop_count": 11,
+          "osrm_km": 659.5,
+          "corrected_km": 850.8,
+          "duration_min": 574.8,
+          "utilization": 0.903,
+          "price_range": "321~350 km",
+          "cost": 446000
+        },
+        {
+          "vehicle_id": 35,
+          "stops": [
+            "광주광역시 북구",
+            "광주광역시 남구",
+            "광주광역시 서구"
+          ],
+          "stop_count": 3,
+          "osrm_km": 308.1,
+          "corrected_km": 397.4,
+          "duration_min": 250.3,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 446000
+        },
+        {
+          "vehicle_id": 36,
+          "stops": [
+            "충청남도 공주시",
+            "충청남도 보령시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 185.9,
+          "corrected_km": 243.5,
+          "duration_min": 183.8,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 301800
+        },
+        {
+          "vehicle_id": 37,
+          "stops": [
+            "전라북도 전주시 완산구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 133.6,
+          "corrected_km": 163.0,
+          "duration_min": 120.5,
+          "utilization": 0.8,
+          "price_range": "161~180 km",
+          "cost": 209400
+        },
+        {
+          "vehicle_id": 38,
+          "stops": [
+            "전라남도 나주시",
+            "전라남도 영암군",
+            "전라남도 함평군",
+            "전라남도 영광군",
+            "전라북도 고창군"
+          ],
+          "stop_count": 5,
+          "osrm_km": 414.4,
+          "corrected_km": 534.5,
+          "duration_min": 357.1,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 446000
+        }
+      ]
+    },
+    {
+      "rdc_name": "평택RDC",
+      "sigungu_count": 77,
+      "vehicle_count": 76,
+      "total_demand": 75.9,
+      "total_cost": 15589800,
+      "total_osrm_km": 10058.7,
+      "total_corrected_km": 12897.7,
+      "unassigned_count": 0,
+      "routes": [
+        {
+          "vehicle_id": 1,
+          "stops": [
+            "경기도 파주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 209.3,
+          "corrected_km": 269.9,
+          "duration_min": 172.9,
+          "utilization": 1.0,
+          "price_range": "261~290 km",
+          "cost": 296200
+        },
+        {
+          "vehicle_id": 2,
+          "stops": [
+            "경기도 고양시 일산서구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 194.4,
+          "corrected_km": 254.7,
+          "duration_min": 167.4,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 266800
+        },
+        {
+          "vehicle_id": 3,
+          "stops": [
+            "경기도 양주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 197.9,
+          "corrected_km": 259.3,
+          "duration_min": 165.9,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 266800
+        },
+        {
+          "vehicle_id": 4,
+          "stops": [
+            "경기도 양주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 197.9,
+          "corrected_km": 259.3,
+          "duration_min": 165.9,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 266800
+        },
+        {
+          "vehicle_id": 5,
+          "stops": [
+            "경기도 고양시 일산동구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 187.1,
+          "corrected_km": 245.0,
+          "duration_min": 160.2,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 266800
+        },
+        {
+          "vehicle_id": 6,
+          "stops": [
+            "경기도 김포시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 196.9,
+          "corrected_km": 258.0,
+          "duration_min": 158.6,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 266800
+        },
+        {
+          "vehicle_id": 7,
+          "stops": [
+            "경기도 고양시 덕양구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 178.2,
+          "corrected_km": 233.5,
+          "duration_min": 154.6,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 266800
+        },
+        {
+          "vehicle_id": 8,
+          "stops": [
+            "인천광역시 서구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 185.1,
+          "corrected_km": 242.5,
+          "duration_min": 150.1,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 266800
+        },
+        {
+          "vehicle_id": 9,
+          "stops": [
+            "인천광역시 서구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 185.1,
+          "corrected_km": 242.5,
+          "duration_min": 150.1,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 266800
+        },
+        {
+          "vehicle_id": 10,
+          "stops": [
+            "경기도 남양주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 167.2,
+          "corrected_km": 219.1,
+          "duration_min": 141.8,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 11,
+          "stops": [
+            "경기도 남양주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 167.2,
+          "corrected_km": 219.1,
+          "duration_min": 141.8,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 12,
+          "stops": [
+            "인천광역시 중구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 171.1,
+          "corrected_km": 224.2,
+          "duration_min": 137.4,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 13,
+          "stops": [
+            "인천광역시 중구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 171.1,
+          "corrected_km": 224.2,
+          "duration_min": 137.4,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 14,
+          "stops": [
+            "인천광역시 부평구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 166.6,
+          "corrected_km": 218.2,
+          "duration_min": 131.9,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 15,
+          "stops": [
+            "서울특별시 영등포구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 147.4,
+          "corrected_km": 179.8,
+          "duration_min": 123.1,
+          "utilization": 1.0,
+          "price_range": "161~180 km",
+          "cost": 201300
+        },
+        {
+          "vehicle_id": 16,
+          "stops": [
+            "인천광역시 남동구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 149.2,
+          "corrected_km": 182.1,
+          "duration_min": 121.2,
+          "utilization": 1.0,
+          "price_range": "181~200 km",
+          "cost": 216700
+        },
+        {
+          "vehicle_id": 17,
+          "stops": [
+            "서울특별시 구로구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 148.3,
+          "corrected_km": 180.9,
+          "duration_min": 120.2,
+          "utilization": 1.0,
+          "price_range": "181~200 km",
+          "cost": 216700
+        },
+        {
+          "vehicle_id": 18,
+          "stops": [
+            "서울특별시 구로구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 148.3,
+          "corrected_km": 180.9,
+          "duration_min": 120.2,
+          "utilization": 1.0,
+          "price_range": "181~200 km",
+          "cost": 216700
+        },
+        {
+          "vehicle_id": 19,
+          "stops": [
+            "경기도 하남시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 145.3,
+          "corrected_km": 177.3,
+          "duration_min": 118.6,
+          "utilization": 1.0,
+          "price_range": "161~180 km",
+          "cost": 201300
+        },
+        {
+          "vehicle_id": 20,
+          "stops": [
+            "경기도 하남시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 145.3,
+          "corrected_km": 177.3,
+          "duration_min": 118.6,
+          "utilization": 1.0,
+          "price_range": "161~180 km",
+          "cost": 201300
+        },
+        {
+          "vehicle_id": 21,
+          "stops": [
+            "서울특별시 동대문구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 140.1,
+          "corrected_km": 170.9,
+          "duration_min": 115.8,
+          "utilization": 1.0,
+          "price_range": "161~180 km",
+          "cost": 201300
+        },
+        {
+          "vehicle_id": 22,
+          "stops": [
+            "서울특별시 동대문구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 140.1,
+          "corrected_km": 170.9,
+          "duration_min": 115.8,
+          "utilization": 1.0,
+          "price_range": "161~180 km",
+          "cost": 201300
+        },
+        {
+          "vehicle_id": 23,
+          "stops": [
+            "경기도 시흥시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 137.6,
+          "corrected_km": 167.9,
+          "duration_min": 110.6,
+          "utilization": 1.0,
+          "price_range": "161~180 km",
+          "cost": 201300
+        },
+        {
+          "vehicle_id": 24,
+          "stops": [
+            "서울특별시 송파구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 126.4,
+          "corrected_km": 154.2,
+          "duration_min": 105.5,
+          "utilization": 1.0,
+          "price_range": "141~160 km",
+          "cost": 186600
+        },
+        {
+          "vehicle_id": 25,
+          "stops": [
+            "경기도 광주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 117.8,
+          "corrected_km": 147.3,
+          "duration_min": 101.3,
+          "utilization": 1.0,
+          "price_range": "141~160 km",
+          "cost": 186600
+        },
+        {
+          "vehicle_id": 26,
+          "stops": [
+            "충청남도 당진시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 117.1,
+          "corrected_km": 146.3,
+          "duration_min": 99.6,
+          "utilization": 1.0,
+          "price_range": "141~160 km",
+          "cost": 186600
+        },
+        {
+          "vehicle_id": 27,
+          "stops": [
+            "서울특별시 서초구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 118.7,
+          "corrected_km": 148.4,
+          "duration_min": 93.4,
+          "utilization": 1.0,
+          "price_range": "141~160 km",
+          "cost": 186600
+        },
+        {
+          "vehicle_id": 28,
+          "stops": [
+            "경기도 안산시 상록구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 111.4,
+          "corrected_km": 139.3,
+          "duration_min": 93.1,
+          "utilization": 1.0,
+          "price_range": "121~140 km",
+          "cost": 172800
+        },
+        {
+          "vehicle_id": 29,
+          "stops": [
+            "경기도 의왕시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 82.7,
+          "corrected_km": 103.3,
+          "duration_min": 84.4,
+          "utilization": 1.0,
+          "price_range": "101~120 km",
+          "cost": 160100
+        },
+        {
+          "vehicle_id": 30,
+          "stops": [
+            "경기도 의왕시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 82.7,
+          "corrected_km": 103.3,
+          "duration_min": 84.4,
+          "utilization": 1.0,
+          "price_range": "101~120 km",
+          "cost": 160100
+        },
+        {
+          "vehicle_id": 31,
+          "stops": [
+            "경기도 화성시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 86.3,
+          "corrected_km": 107.9,
+          "duration_min": 74.6,
+          "utilization": 1.0,
+          "price_range": "101~120 km",
+          "cost": 160100
+        },
+        {
+          "vehicle_id": 32,
+          "stops": [
+            "경기도 화성시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 86.3,
+          "corrected_km": 107.9,
+          "duration_min": 74.6,
+          "utilization": 1.0,
+          "price_range": "101~120 km",
+          "cost": 160100
+        },
+        {
+          "vehicle_id": 33,
+          "stops": [
+            "경기도 화성시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 86.3,
+          "corrected_km": 107.9,
+          "duration_min": 74.6,
+          "utilization": 1.0,
+          "price_range": "101~120 km",
+          "cost": 160100
+        },
+        {
+          "vehicle_id": 34,
+          "stops": [
+            "경기도 수원시 권선구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 66.6,
+          "corrected_km": 83.2,
+          "duration_min": 70.4,
+          "utilization": 1.0,
+          "price_range": "81~90 km",
+          "cost": 139700
+        },
+        {
+          "vehicle_id": 35,
+          "stops": [
+            "경기도 용인시 기흥구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 70.6,
+          "corrected_km": 88.2,
+          "duration_min": 64.4,
+          "utilization": 1.0,
+          "price_range": "81~90 km",
+          "cost": 139700
+        },
+        {
+          "vehicle_id": 36,
+          "stops": [
+            "경기도 용인시 처인구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 69.1,
+          "corrected_km": 86.4,
+          "duration_min": 60.8,
+          "utilization": 1.0,
+          "price_range": "81~90 km",
+          "cost": 139700
+        },
+        {
+          "vehicle_id": 37,
+          "stops": [
+            "경기도 용인시 처인구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 69.1,
+          "corrected_km": 86.4,
+          "duration_min": 60.8,
+          "utilization": 1.0,
+          "price_range": "81~90 km",
+          "cost": 139700
+        },
+        {
+          "vehicle_id": 38,
+          "stops": [
+            "충청남도 천안시 동남구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 66.4,
+          "corrected_km": 83.0,
+          "duration_min": 59.8,
+          "utilization": 1.0,
+          "price_range": "81~90 km",
+          "cost": 139700
+        },
+        {
+          "vehicle_id": 39,
+          "stops": [
+            "충청남도 천안시 동남구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 66.4,
+          "corrected_km": 83.0,
+          "duration_min": 59.8,
+          "utilization": 1.0,
+          "price_range": "81~90 km",
+          "cost": 139700
+        },
+        {
+          "vehicle_id": 40,
+          "stops": [
+            "충청남도 천안시 동남구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 66.4,
+          "corrected_km": 83.0,
+          "duration_min": 59.8,
+          "utilization": 1.0,
+          "price_range": "81~90 km",
+          "cost": 139700
+        },
+        {
+          "vehicle_id": 41,
+          "stops": [
+            "인천광역시 계양구",
+            "서울특별시 영등포구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 176.1,
+          "corrected_km": 230.7,
+          "duration_min": 146.1,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 266800
+        },
+        {
+          "vehicle_id": 42,
+          "stops": [
+            "서울특별시 마포구",
+            "서울특별시 강서구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 163.4,
+          "corrected_km": 214.1,
+          "duration_min": 137.0,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 43,
+          "stops": [
+            "서울특별시 노원구",
+            "서울특별시 광진구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 161.4,
+          "corrected_km": 211.4,
+          "duration_min": 137.6,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 44,
+          "stops": [
+            "경기도 부천시 원미구",
+            "인천광역시 부평구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 167.1,
+          "corrected_km": 218.8,
+          "duration_min": 139.3,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 45,
+          "stops": [
+            "경기도 시흥시",
+            "서울특별시 금천구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 143.2,
+          "corrected_km": 174.7,
+          "duration_min": 134.0,
+          "utilization": 1.0,
+          "price_range": "161~180 km",
+          "cost": 201300
+        },
+        {
+          "vehicle_id": 46,
+          "stops": [
+            "경기도 안산시 단원구",
+            "서울특별시 양천구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 164.4,
+          "corrected_km": 215.4,
+          "duration_min": 142.8,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 47,
+          "stops": [
+            "서울특별시 서초구",
+            "서울특별시 강남구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 129.6,
+          "corrected_km": 158.1,
+          "duration_min": 104.2,
+          "utilization": 1.0,
+          "price_range": "141~160 km",
+          "cost": 186600
+        },
+        {
+          "vehicle_id": 48,
+          "stops": [
+            "인천광역시 연수구",
+            "경기도 광명시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 175.4,
+          "corrected_km": 229.8,
+          "duration_min": 145.6,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 49,
+          "stops": [
+            "경기도 안산시 상록구",
+            "경기도 수원시 권선구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 104.3,
+          "corrected_km": 130.4,
+          "duration_min": 99.5,
+          "utilization": 1.0,
+          "price_range": "121~140 km",
+          "cost": 172800
+        },
+        {
+          "vehicle_id": 50,
+          "stops": [
+            "경기도 성남시 수정구",
+            "경기도 성남시 분당구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 115.2,
+          "corrected_km": 143.9,
+          "duration_min": 98.2,
+          "utilization": 1.0,
+          "price_range": "141~160 km",
+          "cost": 186600
+        },
+        {
+          "vehicle_id": 51,
+          "stops": [
+            "경기도 오산시",
+            "경기도 수원시 영통구",
+            "경기도 용인시 처인구"
+          ],
+          "stop_count": 3,
+          "osrm_km": 83.1,
+          "corrected_km": 103.8,
+          "duration_min": 82.8,
+          "utilization": 1.0,
+          "price_range": "101~120 km",
+          "cost": 160100
+        },
+        {
+          "vehicle_id": 52,
+          "stops": [
+            "경기도 화성시",
+            "경기도 군포시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 114.1,
+          "corrected_km": 142.6,
+          "duration_min": 110.5,
+          "utilization": 1.0,
+          "price_range": "141~160 km",
+          "cost": 186600
+        },
+        {
+          "vehicle_id": 53,
+          "stops": [
+            "서울특별시 성북구",
+            "서울특별시 도봉구",
+            "서울특별시 용산구"
+          ],
+          "stop_count": 3,
+          "osrm_km": 166.6,
+          "corrected_km": 218.2,
+          "duration_min": 142.7,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 54,
+          "stops": [
+            "인천광역시 남동구",
+            "인천광역시 미추홀구",
+            "인천광역시 중구"
+          ],
+          "stop_count": 3,
+          "osrm_km": 172.0,
+          "corrected_km": 225.4,
+          "duration_min": 143.2,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 55,
+          "stops": [
+            "경기도 김포시",
+            "인천광역시 강화군",
+            "서울특별시 종로구"
+          ],
+          "stop_count": 3,
+          "osrm_km": 250.7,
+          "corrected_km": 323.4,
+          "duration_min": 216.3,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 366500
+        },
+        {
+          "vehicle_id": 56,
+          "stops": [
+            "강원도 철원군",
+            "경기도 연천군",
+            "경기도 동두천시",
+            "경기도 의정부시"
+          ],
+          "stop_count": 4,
+          "osrm_km": 320.3,
+          "corrected_km": 413.1,
+          "duration_min": 292.4,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 366500
+        },
+        {
+          "vehicle_id": 57,
+          "stops": [
+            "경기도 용인시 수지구",
+            "경기도 용인시 기흥구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 81.1,
+          "corrected_km": 101.4,
+          "duration_min": 76.8,
+          "utilization": 1.0,
+          "price_range": "101~120 km",
+          "cost": 160100
+        },
+        {
+          "vehicle_id": 58,
+          "stops": [
+            "충청남도 천안시 동남구",
+            "충청남도 천안시 서북구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 63.5,
+          "corrected_km": 79.4,
+          "duration_min": 69.3,
+          "utilization": 1.0,
+          "price_range": "71~80 km",
+          "cost": 131900
+        },
+        {
+          "vehicle_id": 59,
+          "stops": [
+            "경기도 부천시 소사구",
+            "경기도 부천시 오정구",
+            "인천광역시 서구",
+            "인천광역시 동구"
+          ],
+          "stop_count": 4,
+          "osrm_km": 192.2,
+          "corrected_km": 251.8,
+          "duration_min": 170.0,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 266800
+        },
+        {
+          "vehicle_id": 60,
+          "stops": [
+            "충청남도 천안시 서북구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 42.9,
+          "corrected_km": 65.3,
+          "duration_min": 51.1,
+          "utilization": 1.0,
+          "price_range": "61~70 km",
+          "cost": 124300
+        },
+        {
+          "vehicle_id": 61,
+          "stops": [
+            "경기도 광주시",
+            "경기도 안성시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 135.6,
+          "corrected_km": 165.5,
+          "duration_min": 117.4,
+          "utilization": 1.0,
+          "price_range": "161~180 km",
+          "cost": 201300
+        },
+        {
+          "vehicle_id": 62,
+          "stops": [
+            "경기도 안성시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 45.4,
+          "corrected_km": 69.0,
+          "duration_min": 47.0,
+          "utilization": 1.0,
+          "price_range": "61~70 km",
+          "cost": 124300
+        },
+        {
+          "vehicle_id": 63,
+          "stops": [
+            "경기도 안성시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 45.4,
+          "corrected_km": 69.0,
+          "duration_min": 47.0,
+          "utilization": 1.0,
+          "price_range": "61~70 km",
+          "cost": 124300
+        },
+        {
+          "vehicle_id": 64,
+          "stops": [
+            "서울특별시 성동구",
+            "서울특별시 동대문구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 140.5,
+          "corrected_km": 171.4,
+          "duration_min": 116.9,
+          "utilization": 1.0,
+          "price_range": "161~180 km",
+          "cost": 201300
+        },
+        {
+          "vehicle_id": 65,
+          "stops": [
+            "경기도 안성시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 45.4,
+          "corrected_km": 69.0,
+          "duration_min": 47.0,
+          "utilization": 1.0,
+          "price_range": "61~70 km",
+          "cost": 124300
+        },
+        {
+          "vehicle_id": 66,
+          "stops": [
+            "경기도 성남시 중원구",
+            "경기도 구리시",
+            "경기도 하남시"
+          ],
+          "stop_count": 3,
+          "osrm_km": 161.0,
+          "corrected_km": 210.9,
+          "duration_min": 140.7,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 67,
+          "stops": [
+            "경기도 남양주시",
+            "경기도 파주시",
+            "경기도 고양시 일산서구",
+            "경기도 고양시 일산동구",
+            "경기도 고양시 덕양구"
+          ],
+          "stop_count": 5,
+          "osrm_km": 251.1,
+          "corrected_km": 323.9,
+          "duration_min": 226.7,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 366500
+        },
+        {
+          "vehicle_id": 68,
+          "stops": [
+            "경기도 평택시",
+            "서울특별시 송파구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 137.6,
+          "corrected_km": 167.8,
+          "duration_min": 117.8,
+          "utilization": 1.0,
+          "price_range": "161~180 km",
+          "cost": 201300
+        },
+        {
+          "vehicle_id": 69,
+          "stops": [
+            "경기도 수원시 팔달구",
+            "경기도 수원시 장안구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 71.1,
+          "corrected_km": 88.9,
+          "duration_min": 77.1,
+          "utilization": 1.0,
+          "price_range": "81~90 km",
+          "cost": 139700
+        },
+        {
+          "vehicle_id": 70,
+          "stops": [
+            "경기도 의왕시",
+            "경기도 안양시 만안구",
+            "경기도 안양시 동안구",
+            "경기도 과천시"
+          ],
+          "stop_count": 4,
+          "osrm_km": 109.3,
+          "corrected_km": 136.6,
+          "duration_min": 116.4,
+          "utilization": 1.0,
+          "price_range": "121~140 km",
+          "cost": 172800
+        },
+        {
+          "vehicle_id": 71,
+          "stops": [
+            "경기도 평택시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 13.9,
+          "corrected_km": 25.3,
+          "duration_min": 18.0,
+          "utilization": 1.0,
+          "price_range": "21~30 km",
+          "cost": 98900
+        },
+        {
+          "vehicle_id": 72,
+          "stops": [
+            "경기도 양주시",
+            "서울특별시 강북구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 198.2,
+          "corrected_km": 259.6,
+          "duration_min": 166.8,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 266800
+        },
+        {
+          "vehicle_id": 73,
+          "stops": [
+            "서울특별시 강동구",
+            "서울특별시 중랑구",
+            "서울특별시 중구"
+          ],
+          "stop_count": 3,
+          "osrm_km": 158.8,
+          "corrected_km": 208.0,
+          "duration_min": 135.4,
+          "utilization": 0.901,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 74,
+          "stops": [
+            "서울특별시 관악구",
+            "서울특별시 동작구",
+            "서울특별시 서대문구",
+            "서울특별시 은평구"
+          ],
+          "stop_count": 4,
+          "osrm_km": 163.4,
+          "corrected_km": 214.0,
+          "duration_min": 140.0,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 75,
+          "stops": [
+            "경기도 평택시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 13.9,
+          "corrected_km": 25.3,
+          "duration_min": 18.0,
+          "utilization": 1.0,
+          "price_range": "21~30 km",
+          "cost": 98900
+        },
+        {
+          "vehicle_id": 76,
+          "stops": [
+            "경기도 평택시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 13.9,
+          "corrected_km": 25.3,
+          "duration_min": 18.0,
+          "utilization": 1.0,
+          "price_range": "21~30 km",
+          "cost": 98900
+        }
+      ]
+    },
+    {
+      "rdc_name": "제천RDC",
+      "sigungu_count": 31,
+      "vehicle_count": 20,
+      "total_demand": 19.0,
+      "total_cost": 5188300,
+      "total_osrm_km": 4156.2,
+      "total_corrected_km": 5343.8,
+      "unassigned_count": 0,
+      "routes": [
+        {
+          "vehicle_id": 1,
+          "stops": [
+            "강원도 평창군",
+            "강원도 강릉시",
+            "강원도 양양군",
+            "강원도 속초시",
+            "강원도 고성군"
+          ],
+          "stop_count": 5,
+          "osrm_km": 458.1,
+          "corrected_km": 590.9,
+          "duration_min": 427.8,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 366500
+        },
+        {
+          "vehicle_id": 2,
+          "stops": [
+            "강원도 횡성군",
+            "경기도 가평군",
+            "강원도 화천군",
+            "강원도 양구군",
+            "강원도 인제군",
+            "강원도 홍천군"
+          ],
+          "stop_count": 6,
+          "osrm_km": 415.7,
+          "corrected_km": 536.2,
+          "duration_min": 396.7,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 366500
+        },
+        {
+          "vehicle_id": 3,
+          "stops": [
+            "강원도 강릉시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 273.0,
+          "corrected_km": 352.2,
+          "duration_min": 265.6,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 366500
+        },
+        {
+          "vehicle_id": 4,
+          "stops": [
+            "경기도 양평군",
+            "경기도 포천시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 340.7,
+          "corrected_km": 439.5,
+          "duration_min": 265.2,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 366500
+        },
+        {
+          "vehicle_id": 5,
+          "stops": [
+            "경기도 포천시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 334.7,
+          "corrected_km": 431.7,
+          "duration_min": 255.7,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 366500
+        },
+        {
+          "vehicle_id": 6,
+          "stops": [
+            "강원도 동해시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 288.1,
+          "corrected_km": 371.6,
+          "duration_min": 250.4,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 366500
+        },
+        {
+          "vehicle_id": 7,
+          "stops": [
+            "강원도 영월군",
+            "강원도 정선군",
+            "강원도 태백시",
+            "강원도 삼척시",
+            "경상북도 울진군",
+            "경상북도 봉화군"
+          ],
+          "stop_count": 6,
+          "osrm_km": 401.8,
+          "corrected_km": 518.3,
+          "duration_min": 396.4,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 366500
+        },
+        {
+          "vehicle_id": 8,
+          "stops": [
+            "강원도 춘천시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 241.9,
+          "corrected_km": 312.0,
+          "duration_min": 200.3,
+          "utilization": 1.0,
+          "price_range": "291~320 km",
+          "cost": 328900
+        },
+        {
+          "vehicle_id": 9,
+          "stops": [
+            "경기도 이천시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 181.6,
+          "corrected_km": 237.9,
+          "duration_min": 148.3,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 266800
+        },
+        {
+          "vehicle_id": 10,
+          "stops": [
+            "경기도 여주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 153.4,
+          "corrected_km": 201.0,
+          "duration_min": 127.0,
+          "utilization": 0.8,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 11,
+          "stops": [
+            "충청북도 음성군"
+          ],
+          "stop_count": 1,
+          "osrm_km": 134.8,
+          "corrected_km": 164.4,
+          "duration_min": 120.1,
+          "utilization": 1.0,
+          "price_range": "161~180 km",
+          "cost": 201300
+        },
+        {
+          "vehicle_id": 12,
+          "stops": [
+            "충청북도 음성군"
+          ],
+          "stop_count": 1,
+          "osrm_km": 134.8,
+          "corrected_km": 164.4,
+          "duration_min": 120.1,
+          "utilization": 1.0,
+          "price_range": "161~180 km",
+          "cost": 201300
+        },
+        {
+          "vehicle_id": 13,
+          "stops": [
+            "경상북도 영주시",
+            "경상북도 예천군",
+            "충청북도 단양군"
+          ],
+          "stop_count": 3,
+          "osrm_km": 176.7,
+          "corrected_km": 231.4,
+          "duration_min": 172.4,
+          "utilization": 0.8,
+          "price_range": "231~260 km",
+          "cost": 266800
+        },
+        {
+          "vehicle_id": 14,
+          "stops": [
+            "충청북도 제천시",
+            "충청북도 음성군",
+            "충청북도 괴산군",
+            "충청북도 충주시"
+          ],
+          "stop_count": 4,
+          "osrm_km": 166.1,
+          "corrected_km": 217.6,
+          "duration_min": 169.2,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 240500
+        },
+        {
+          "vehicle_id": 15,
+          "stops": [
+            "충청북도 충주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 86.8,
+          "corrected_km": 108.6,
+          "duration_min": 79.9,
+          "utilization": 1.0,
+          "price_range": "101~120 km",
+          "cost": 160100
+        },
+        {
+          "vehicle_id": 16,
+          "stops": [
+            "강원도 원주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 89.4,
+          "corrected_km": 111.8,
+          "duration_min": 79.5,
+          "utilization": 1.0,
+          "price_range": "101~120 km",
+          "cost": 160100
+        },
+        {
+          "vehicle_id": 17,
+          "stops": [
+            "강원도 원주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 89.4,
+          "corrected_km": 111.8,
+          "duration_min": 79.5,
+          "utilization": 1.0,
+          "price_range": "101~120 km",
+          "cost": 160100
+        },
+        {
+          "vehicle_id": 18,
+          "stops": [
+            "강원도 원주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 89.4,
+          "corrected_km": 111.8,
+          "duration_min": 79.5,
+          "utilization": 1.0,
+          "price_range": "101~120 km",
+          "cost": 160100
+        },
+        {
+          "vehicle_id": 19,
+          "stops": [
+            "강원도 원주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 89.4,
+          "corrected_km": 111.8,
+          "duration_min": 79.5,
+          "utilization": 0.4,
+          "price_range": "101~120 km",
+          "cost": 160100
+        },
+        {
+          "vehicle_id": 20,
+          "stops": [
+            "충청북도 제천시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 10.4,
+          "corrected_km": 18.9,
+          "duration_min": 16.5,
+          "utilization": 1.0,
+          "price_range": "11~20 km",
+          "cost": 76200
+        }
+      ]
+    },
+    {
+      "rdc_name": "칠곡RDC",
+      "sigungu_count": 72,
+      "vehicle_count": 54,
+      "total_demand": 53.9,
+      "total_cost": 14381300,
+      "total_osrm_km": 11415.4,
+      "total_corrected_km": 14840.7,
+      "unassigned_count": 0,
+      "routes": [
+        {
+          "vehicle_id": 1,
+          "stops": [
+            "대구광역시 북구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 44.5,
+          "corrected_km": 67.7,
+          "duration_min": 44.2,
+          "utilization": 1.0,
+          "price_range": "61~70 km",
+          "cost": 117400
+        },
+        {
+          "vehicle_id": 2,
+          "stops": [
+            "대구광역시 북구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 44.5,
+          "corrected_km": 67.7,
+          "duration_min": 44.2,
+          "utilization": 1.0,
+          "price_range": "61~70 km",
+          "cost": 117400
+        },
+        {
+          "vehicle_id": 3,
+          "stops": [
+            "대구광역시 북구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 44.5,
+          "corrected_km": 67.7,
+          "duration_min": 44.2,
+          "utilization": 1.0,
+          "price_range": "61~70 km",
+          "cost": 117400
+        },
+        {
+          "vehicle_id": 4,
+          "stops": [
+            "대구광역시 북구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 44.5,
+          "corrected_km": 67.7,
+          "duration_min": 44.2,
+          "utilization": 1.0,
+          "price_range": "61~70 km",
+          "cost": 117400
+        },
+        {
+          "vehicle_id": 5,
+          "stops": [
+            "대구광역시 달서구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 43.9,
+          "corrected_km": 66.7,
+          "duration_min": 45.9,
+          "utilization": 1.0,
+          "price_range": "61~70 km",
+          "cost": 117400
+        },
+        {
+          "vehicle_id": 6,
+          "stops": [
+            "대구광역시 달서구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 43.9,
+          "corrected_km": 66.7,
+          "duration_min": 45.9,
+          "utilization": 1.0,
+          "price_range": "61~70 km",
+          "cost": 117400
+        },
+        {
+          "vehicle_id": 7,
+          "stops": [
+            "경상남도 김해시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 231.7,
+          "corrected_km": 298.9,
+          "duration_min": 186.4,
+          "utilization": 1.0,
+          "price_range": "291~320 km",
+          "cost": 306800
+        },
+        {
+          "vehicle_id": 8,
+          "stops": [
+            "경상남도 김해시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 231.7,
+          "corrected_km": 298.9,
+          "duration_min": 186.4,
+          "utilization": 1.0,
+          "price_range": "291~320 km",
+          "cost": 306800
+        },
+        {
+          "vehicle_id": 9,
+          "stops": [
+            "경상남도 진주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 243.3,
+          "corrected_km": 313.8,
+          "duration_min": 195.0,
+          "utilization": 1.0,
+          "price_range": "291~320 km",
+          "cost": 306800
+        },
+        {
+          "vehicle_id": 10,
+          "stops": [
+            "경상남도 진주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 243.3,
+          "corrected_km": 313.8,
+          "duration_min": 195.0,
+          "utilization": 1.0,
+          "price_range": "291~320 km",
+          "cost": 306800
+        },
+        {
+          "vehicle_id": 11,
+          "stops": [
+            "경상북도 포항시 북구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 203.2,
+          "corrected_km": 262.1,
+          "duration_min": 165.6,
+          "utilization": 1.0,
+          "price_range": "261~290 km",
+          "cost": 297900
+        },
+        {
+          "vehicle_id": 12,
+          "stops": [
+            "경상북도 포항시 남구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 203.4,
+          "corrected_km": 262.4,
+          "duration_min": 169.8,
+          "utilization": 1.0,
+          "price_range": "261~290 km",
+          "cost": 297900
+        },
+        {
+          "vehicle_id": 13,
+          "stops": [
+            "경상북도 구미시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 55.7,
+          "corrected_km": 84.7,
+          "duration_min": 53.5,
+          "utilization": 1.0,
+          "price_range": "81~90 km",
+          "cost": 136100
+        },
+        {
+          "vehicle_id": 14,
+          "stops": [
+            "경상남도 창원시 마산합포구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 206.6,
+          "corrected_km": 266.5,
+          "duration_min": 165.0,
+          "utilization": 1.0,
+          "price_range": "261~290 km",
+          "cost": 297900
+        },
+        {
+          "vehicle_id": 15,
+          "stops": [
+            "경상북도 안동시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 180.8,
+          "corrected_km": 236.9,
+          "duration_min": 163.3,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 283100
+        },
+        {
+          "vehicle_id": 16,
+          "stops": [
+            "경상남도 창원시 의창구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 208.7,
+          "corrected_km": 269.2,
+          "duration_min": 168.1,
+          "utilization": 1.0,
+          "price_range": "261~290 km",
+          "cost": 297900
+        },
+        {
+          "vehicle_id": 17,
+          "stops": [
+            "경상남도 양산시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 242.9,
+          "corrected_km": 313.4,
+          "duration_min": 182.6,
+          "utilization": 1.0,
+          "price_range": "291~320 km",
+          "cost": 306800
+        },
+        {
+          "vehicle_id": 18,
+          "stops": [
+            "부산광역시 사상구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 256.5,
+          "corrected_km": 330.9,
+          "duration_min": 191.7,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 19,
+          "stops": [
+            "대구광역시 서구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 38.0,
+          "corrected_km": 57.8,
+          "duration_min": 39.8,
+          "utilization": 1.0,
+          "price_range": "51~60 km",
+          "cost": 109800
+        },
+        {
+          "vehicle_id": 20,
+          "stops": [
+            "경상북도 경주시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 185.8,
+          "corrected_km": 243.4,
+          "duration_min": 152.1,
+          "utilization": 1.0,
+          "price_range": "231~260 km",
+          "cost": 283100
+        },
+        {
+          "vehicle_id": 21,
+          "stops": [
+            "대구광역시 달성군"
+          ],
+          "stop_count": 1,
+          "osrm_km": 65.6,
+          "corrected_km": 82.0,
+          "duration_min": 60.3,
+          "utilization": 1.0,
+          "price_range": "81~90 km",
+          "cost": 136100
+        },
+        {
+          "vehicle_id": 22,
+          "stops": [
+            "울산광역시 남구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 268.2,
+          "corrected_km": 346.0,
+          "duration_min": 213.0,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 23,
+          "stops": [
+            "전라남도 광양시"
+          ],
+          "stop_count": 1,
+          "osrm_km": 357.1,
+          "corrected_km": 460.7,
+          "duration_min": 285.8,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 24,
+          "stops": [
+            "울산광역시 북구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 242.5,
+          "corrected_km": 312.8,
+          "duration_min": 208.2,
+          "utilization": 1.0,
+          "price_range": "291~320 km",
+          "cost": 306800
+        },
+        {
+          "vehicle_id": 25,
+          "stops": [
+            "부산광역시 연제구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 266.2,
+          "corrected_km": 343.4,
+          "duration_min": 202.1,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 26,
+          "stops": [
+            "경상남도 창녕군"
+          ],
+          "stop_count": 1,
+          "osrm_km": 123.8,
+          "corrected_km": 151.0,
+          "duration_min": 98.8,
+          "utilization": 1.0,
+          "price_range": "141~160 km",
+          "cost": 195200
+        },
+        {
+          "vehicle_id": 27,
+          "stops": [
+            "경상북도 포항시 북구",
+            "경상북도 울릉군"
+          ],
+          "stop_count": 2,
+          "osrm_km": 633.9,
+          "corrected_km": 817.7,
+          "duration_min": 594.3,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 28,
+          "stops": [
+            "대구광역시 동구"
+          ],
+          "stop_count": 1,
+          "osrm_km": 52.8,
+          "corrected_km": 80.2,
+          "duration_min": 50.9,
+          "utilization": 0.9,
+          "price_range": "81~90 km",
+          "cost": 136100
+        },
+        {
+          "vehicle_id": 29,
+          "stops": [
+            "울산광역시 울주군",
+            "울산광역시 남구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 266.3,
+          "corrected_km": 343.6,
+          "duration_min": 215.2,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 30,
+          "stops": [
+            "대구광역시 남구",
+            "경상북도 경산시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 81.4,
+          "corrected_km": 101.8,
+          "duration_min": 82.2,
+          "utilization": 1.0,
+          "price_range": "101~120 km",
+          "cost": 159000
+        },
+        {
+          "vehicle_id": 31,
+          "stops": [
+            "부산광역시 동구",
+            "부산광역시 남구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 274.6,
+          "corrected_km": 354.3,
+          "duration_min": 207.6,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 32,
+          "stops": [
+            "경상남도 창원시 마산회원구",
+            "경상남도 의령군"
+          ],
+          "stop_count": 2,
+          "osrm_km": 250.1,
+          "corrected_km": 322.6,
+          "duration_min": 200.3,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 33,
+          "stops": [
+            "경상북도 청도군",
+            "대구광역시 달서구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 118.3,
+          "corrected_km": 147.8,
+          "duration_min": 105.8,
+          "utilization": 1.0,
+          "price_range": "141~160 km",
+          "cost": 195200
+        },
+        {
+          "vehicle_id": 34,
+          "stops": [
+            "부산광역시 중구",
+            "부산광역시 서구",
+            "경상남도 창원시 진해구"
+          ],
+          "stop_count": 3,
+          "osrm_km": 291.6,
+          "corrected_km": 376.2,
+          "duration_min": 233.9,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 35,
+          "stops": [
+            "경상북도 포항시 남구",
+            "경상북도 경주시",
+            "울산광역시 동구"
+          ],
+          "stop_count": 3,
+          "osrm_km": 327.7,
+          "corrected_km": 422.7,
+          "duration_min": 277.0,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 36,
+          "stops": [
+            "경상남도 사천시",
+            "경상남도 남해군",
+            "전라남도 광양시",
+            "경상남도 하동군"
+          ],
+          "stop_count": 4,
+          "osrm_km": 404.0,
+          "corrected_km": 521.1,
+          "duration_min": 353.2,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 37,
+          "stops": [
+            "경상남도 함양군",
+            "경상남도 산청군",
+            "경상남도 거창군",
+            "경상북도 성주군"
+          ],
+          "stop_count": 4,
+          "osrm_km": 265.3,
+          "corrected_km": 342.2,
+          "duration_min": 232.8,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 38,
+          "stops": [
+            "부산광역시 사상구",
+            "경상남도 거제시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 372.6,
+          "corrected_km": 480.6,
+          "duration_min": 293.9,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 39,
+          "stops": [
+            "부산광역시 해운대구",
+            "경상남도 양산시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 292.7,
+          "corrected_km": 377.6,
+          "duration_min": 231.2,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 40,
+          "stops": [
+            "경상남도 김해시",
+            "부산광역시 북구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 251.7,
+          "corrected_km": 324.7,
+          "duration_min": 199.6,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 41,
+          "stops": [
+            "대구광역시 서구",
+            "대구광역시 수성구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 56.3,
+          "corrected_km": 85.6,
+          "duration_min": 57.2,
+          "utilization": 1.0,
+          "price_range": "81~90 km",
+          "cost": 136100
+        },
+        {
+          "vehicle_id": 42,
+          "stops": [
+            "경상남도 밀양시",
+            "경상북도 구미시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 214.6,
+          "corrected_km": 276.8,
+          "duration_min": 171.2,
+          "utilization": 1.0,
+          "price_range": "261~290 km",
+          "cost": 297900
+        },
+        {
+          "vehicle_id": 43,
+          "stops": [
+            "경상남도 창원시 마산합포구",
+            "경상남도 창원시 의창구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 219.2,
+          "corrected_km": 282.8,
+          "duration_min": 177.5,
+          "utilization": 1.0,
+          "price_range": "261~290 km",
+          "cost": 297900
+        },
+        {
+          "vehicle_id": 44,
+          "stops": [
+            "부산광역시 금정구",
+            "부산광역시 동래구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 265.7,
+          "corrected_km": 342.8,
+          "duration_min": 200.6,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 45,
+          "stops": [
+            "울산광역시 중구",
+            "부산광역시 기장군",
+            "부산광역시 영도구"
+          ],
+          "stop_count": 3,
+          "osrm_km": 335.1,
+          "corrected_km": 432.3,
+          "duration_min": 284.4,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 46,
+          "stops": [
+            "경상북도 문경시",
+            "경상북도 안동시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 239.1,
+          "corrected_km": 308.4,
+          "duration_min": 206.7,
+          "utilization": 1.0,
+          "price_range": "291~320 km",
+          "cost": 306800
+        },
+        {
+          "vehicle_id": 47,
+          "stops": [
+            "부산광역시 사하구",
+            "부산광역시 수영구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 287.3,
+          "corrected_km": 370.6,
+          "duration_min": 223.9,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 48,
+          "stops": [
+            "대구광역시 중구",
+            "대구광역시 달성군",
+            "경상북도 고령군",
+            "경상남도 합천군"
+          ],
+          "stop_count": 4,
+          "osrm_km": 159.1,
+          "corrected_km": 208.5,
+          "duration_min": 139.4,
+          "utilization": 1.0,
+          "price_range": "201~230 km",
+          "cost": 263900
+        },
+        {
+          "vehicle_id": 49,
+          "stops": [
+            "부산광역시 부산진구",
+            "부산광역시 강서구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 264.6,
+          "corrected_km": 341.3,
+          "duration_min": 202.3,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 50,
+          "stops": [
+            "경상북도 상주시",
+            "경상북도 김천시"
+          ],
+          "stop_count": 2,
+          "osrm_km": 152.0,
+          "corrected_km": 199.1,
+          "duration_min": 135.4,
+          "utilization": 1.0,
+          "price_range": "181~200 km",
+          "cost": 232900
+        },
+        {
+          "vehicle_id": 51,
+          "stops": [
+            "대구광역시 북구",
+            "경상북도 칠곡군"
+          ],
+          "stop_count": 2,
+          "osrm_km": 57.0,
+          "corrected_km": 86.7,
+          "duration_min": 56.9,
+          "utilization": 1.0,
+          "price_range": "81~90 km",
+          "cost": 136100
+        },
+        {
+          "vehicle_id": 52,
+          "stops": [
+            "경상남도 진주시",
+            "경상남도 통영시",
+            "경상남도 고성군"
+          ],
+          "stop_count": 3,
+          "osrm_km": 345.3,
+          "corrected_km": 445.4,
+          "duration_min": 284.1,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 53,
+          "stops": [
+            "경상남도 함안군",
+            "경상남도 창원시 성산구"
+          ],
+          "stop_count": 2,
+          "osrm_km": 254.4,
+          "corrected_km": 328.1,
+          "duration_min": 210.9,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        },
+        {
+          "vehicle_id": 54,
+          "stops": [
+            "경상북도 영천시",
+            "경상북도 영덕군",
+            "경상북도 영양군",
+            "경상북도 청송군",
+            "경상북도 의성군",
+            "대구광역시 군위군"
+          ],
+          "stop_count": 6,
+          "osrm_km": 361.5,
+          "corrected_km": 466.4,
+          "duration_min": 338.5,
+          "utilization": 1.0,
+          "price_range": "321~350 km",
+          "cost": 333600
+        }
+      ]
+    }
+  ],
+  "params": {
+    "include_jungbu": false,
+    "truck_type": "3.5T",
+    "price_base": "2025년 11월"
+  }
+}
