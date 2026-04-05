@@ -29,6 +29,7 @@ st.markdown(
 # --- 페이지 정의 ---
 data_pages = [
     st.Page("pages/current_status.py", title="자료 분석"),
+    st.Page("pages/backup.py", title="backup"),
 ]
 
 opt_pages = [

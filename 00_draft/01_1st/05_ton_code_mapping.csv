@@ -1,0 +1,11 @@
+raw_ton,normalized_ton,ton_category,description,rule_id,confidence
+8T,8T,TRUCK_TON,톤수 기반 트럭 코드,R1,high
+5T,5T,TRUCK_TON,톤수 기반 트럭 코드,R1,high
+11C,11C,CONTAINER_CAPACITY,컨테이너 C코드,R2,medium
+18C,18C,CONTAINER_CAPACITY,컨테이너 C코드,R2,medium
+24C,24C,CONTAINER_CAPACITY,컨테이너 C코드,R2,medium
+25C,25C,CONTAINER_CAPACITY,컨테이너 C코드,R2,medium
+40FT,40FT,CONTAINER_LENGTH,컨테이너 길이(ft) 코드,R3,high
+45FT,45FT,CONTAINER_LENGTH,컨테이너 길이(ft) 코드,R3,high
+11,11T?,POSSIBLE_TYPO,11T 오타 가능성(원본 자동치환 비권장),R4,low
+,,MISSING,값 누락,R5,high
